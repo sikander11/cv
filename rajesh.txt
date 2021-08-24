@@ -1,6 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Rajesh's personal site</title>
-<body>
-<h1>founder of Raj Industry</h1>
